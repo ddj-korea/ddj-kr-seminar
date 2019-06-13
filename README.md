@@ -7,7 +7,7 @@
 ---
 
 | 일정 | 발표자 | 소속 | 발표주제 | 발표자료 | 비고 |
-|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|:--|:--|
 | 2019.03.29(금) | 김강민, 임송이 | 뉴스타파 | [2019 NICAR 컨퍼런스 리뷰](https://www.facebook.com/events/1038802256321056/) | [발표자료](https://drive.google.com/open?id=1je4WA0NpzTfusDDQpBCzL6zRpyLGGiO9) |  |
 | 2019.04.26(금) | 박찬엽 | SKT | [R을 이용한 데이터크롤링](https://www.facebook.com/events/429224661144963/) | [발표자료](https://github.com/mrchypark/djk-collect-data-with-r?fbclid=IwAR0kygfc7OviytACXDCm_x7dLT87lpY8OvbPhz8d4pV1G_BgTdJ_3Aqkqxc) |  |
 | 2019.05.27(월) | 배여운 | SBS 탐사보도팀 | [고위공직자 이렇게 털었다](https://www.facebook.com/events/402903986963111/) | [발표자료](https://drive.google.com/file/d/18PSOCWi1dh_aueoPOysyPYw6Qv3ag86U/view?usp=sharing) |  |
