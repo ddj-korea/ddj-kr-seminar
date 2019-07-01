@@ -12,6 +12,7 @@
 | 2019.04.26(금) | 박찬엽 | SKT | [R을 이용한 데이터크롤링](https://www.facebook.com/events/429224661144963/) | [발표자료](https://github.com/mrchypark/djk-collect-data-with-r?fbclid=IwAR0kygfc7OviytACXDCm_x7dLT87lpY8OvbPhz8d4pV1G_BgTdJ_3Aqkqxc) |  |
 | 2019.05.27(월) | 배여운 | SBS 탐사보도팀 | [고위공직자 이렇게 털었다](https://www.facebook.com/events/402903986963111/) | [발표자료](https://drive.google.com/file/d/18PSOCWi1dh_aueoPOysyPYw6Qv3ag86U/view?usp=sharing) |  |
 | 2019.05.27(월) | 정한진 | KBS 데이터저널리즘팀 | [데이터를 오픈하기까지의 여정](https://www.facebook.com/events/402903986963111/) | [발표자료](https://drive.google.com/open?id=188_kh33VJp7sz46eqPm74RBpEor4lnt5r6H08TJVlMg) |  |
+| 2019.06.28(금) | 신현호 | 데이터전문가 | [데이터스토리텔링을 기사에 활용하는 방법](https://www.facebook.com/events/402903986963111/) | [발표자료](https://drive.google.com/open?id=1yKW0kiIb_vuw6p0PbwcjgFsRQi632q6G) | [저서](http://www.yes24.com/Product/Goods/70148576) |
 
 참고
 ---
